@@ -2235,6 +2235,7 @@ Himanshu Dedha
 - [Vũ Duy Tùng](https://github.com/duytung1009)
 - [Saif Kholid](https://github.com/Kholid0803)
 - [Sav](https://github.com/Harchok)
+- [MikeStanly](https://github.com/MikeStanly)
 - [malufreirejau](https://github.com/malufreirejau)
 - [chelle](https://github.com/cgentemann)
 - [Ramon Alves Rigoni](https://github.com/rrigonia)
